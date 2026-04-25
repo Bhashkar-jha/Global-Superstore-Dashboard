@@ -32,4 +32,4 @@ sales data across 147 countries (2011-2014).
 - Dataset: Global Superstore (51,000+ records)
 - Skills: Data Visualization, Business Analysis
 - ## Dashboard Preview
-![Dashboard](global-dashboard.png)
+![Dashboard](global%20dashboard.png)
