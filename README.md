@@ -31,3 +31,5 @@ sales data across 147 countries (2011-2014).
 - Tool: Tableau Desktop
 - Dataset: Global Superstore (51,000+ records)
 - Skills: Data Visualization, Business Analysis
+- ## Dashboard Preview
+![Dashboard](global-dashboard.png)
